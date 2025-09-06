@@ -1,0 +1,175 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`FirstStepsApp > should match snapshot 1`] = `
+<div>
+  <div
+    class="_container_fff967"
+  >
+    <header
+      class="_header_fff967"
+    >
+      <h1
+        class="_title_fff967"
+      >
+        🛒 Carrito de Compras
+      </h1>
+      <div
+        class="_summary_fff967"
+      >
+        <span
+          class="_itemCount_fff967"
+        >
+          4
+           artículos
+        </span>
+        <span
+          class="_totalPrice_fff967"
+        >
+          $
+          549.96
+        </span>
+      </div>
+    </header>
+    <main
+      class="_main_fff967"
+    >
+      <div
+        class="_productList_fff967"
+      >
+        <article
+          class="_itemCounter_8b32a2"
+        >
+          <div
+            class="_productInfo_8b32a2"
+          >
+            <h3
+              class="_productName_8b32a2 _lowStock_8b32a2"
+            >
+              Nintendo Switch OLED
+            </h3>
+            <span
+              class="_stockWarning_8b32a2"
+            >
+              Stock mínimo
+            </span>
+          </div>
+          <div
+            class="_quantityControls_8b32a2"
+          >
+            <button
+              aria-label="Disminuir cantidad de Nintendo Switch OLED"
+              class="_button_8b32a2 _decrementButton_8b32a2"
+              disabled=""
+            >
+              −
+            </button>
+            <span
+              aria-label="Cantidad: 1"
+              class="_quantity_8b32a2"
+            >
+              1
+            </span>
+            <button
+              aria-label="Aumentar cantidad de Nintendo Switch OLED"
+              class="_button_8b32a2 _incrementButton_8b32a2"
+            >
+              +
+            </button>
+          </div>
+        </article>
+        <article
+          class="_itemCounter_8b32a2"
+        >
+          <div
+            class="_productInfo_8b32a2"
+          >
+            <h3
+              class="_productName_8b32a2 "
+            >
+              Pro Controller
+            </h3>
+          </div>
+          <div
+            class="_quantityControls_8b32a2"
+          >
+            <button
+              aria-label="Disminuir cantidad de Pro Controller"
+              class="_button_8b32a2 _decrementButton_8b32a2"
+            >
+              −
+            </button>
+            <span
+              aria-label="Cantidad: 2"
+              class="_quantity_8b32a2"
+            >
+              2
+            </span>
+            <button
+              aria-label="Aumentar cantidad de Pro Controller"
+              class="_button_8b32a2 _incrementButton_8b32a2"
+            >
+              +
+            </button>
+          </div>
+        </article>
+        <article
+          class="_itemCounter_8b32a2"
+        >
+          <div
+            class="_productInfo_8b32a2"
+          >
+            <h3
+              class="_productName_8b32a2 _lowStock_8b32a2"
+            >
+              Super Smash Bros Ultimate
+            </h3>
+            <span
+              class="_stockWarning_8b32a2"
+            >
+              Stock mínimo
+            </span>
+          </div>
+          <div
+            class="_quantityControls_8b32a2"
+          >
+            <button
+              aria-label="Disminuir cantidad de Super Smash Bros Ultimate"
+              class="_button_8b32a2 _decrementButton_8b32a2"
+              disabled=""
+            >
+              −
+            </button>
+            <span
+              aria-label="Cantidad: 1"
+              class="_quantity_8b32a2"
+            >
+              1
+            </span>
+            <button
+              aria-label="Aumentar cantidad de Super Smash Bros Ultimate"
+              class="_button_8b32a2 _incrementButton_8b32a2"
+            >
+              +
+            </button>
+          </div>
+        </article>
+      </div>
+      <footer
+        class="_footer_fff967"
+      >
+        <button
+          class="_clearButton_fff967"
+        >
+          Vaciar Carrito
+        </button>
+        <button
+          class="_checkoutButton_fff967"
+        >
+          Proceder al Pago - $
+          549.96
+        </button>
+      </footer>
+    </main>
+  </div>
+</div>
+`;

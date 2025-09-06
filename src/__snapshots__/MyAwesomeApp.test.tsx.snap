@@ -1,0 +1,128 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`MyAwesomeApp > should match snapshot 1`] = `
+<div>
+  <div
+    class="_container_b8db5f"
+  >
+    <div
+      class="_profileCard_b8db5f"
+      style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 16px; padding: 2rem; color: white; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);"
+    >
+      <header
+        class="_header_b8db5f"
+      >
+        <div
+          class="_avatar_b8db5f"
+        >
+          J
+          A
+        </div>
+        <div
+          class="_userInfo_b8db5f"
+        >
+          <h1
+            class="_fullName_b8db5f"
+            data-testid="first-name-title"
+          >
+            Jose
+             
+            Andeone
+          </h1>
+          <div
+            class="_status_b8db5f"
+          >
+            <span
+              class="_statusIndicator_b8db5f _active_b8db5f"
+            />
+            En línea
+          </div>
+        </div>
+      </header>
+      <section
+        class="_section_b8db5f"
+      >
+        <h3
+          class="_sectionTitle_b8db5f"
+        >
+          🎮 Juegos Favoritos
+        </h3>
+        <ul
+          class="_gamesList_b8db5f"
+        >
+          <li
+            class="_gameItem_b8db5f"
+          >
+            Elden Ring
+          </li>
+          <li
+            class="_gameItem_b8db5f"
+          >
+            Super Smash Bros
+          </li>
+          <li
+            class="_gameItem_b8db5f"
+          >
+            Metal Gear Solid
+          </li>
+        </ul>
+      </section>
+      <section
+        class="_section_b8db5f"
+      >
+        <h3
+          class="_sectionTitle_b8db5f"
+        >
+          📍 Información de Ubicación
+        </h3>
+        <div
+          class="_addressInfo_b8db5f"
+        >
+          <p>
+            <strong>
+              País:
+            </strong>
+             
+            Canadá
+          </p>
+          <p>
+            <strong>
+              Ciudad:
+            </strong>
+             
+            Toronto
+          </p>
+          <p>
+            <strong>
+              Código Postal:
+            </strong>
+             
+            ABC-123
+          </p>
+        </div>
+      </section>
+      <footer
+        class="_footer_b8db5f"
+      >
+        <p
+          class="_joinDate_b8db5f"
+        >
+          Miembro desde: 
+          14 de enero de 2023
+        </p>
+      </footer>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`MyAwesomeApp > should match snapshot 2`] = `
+<h1
+  class="_fullName_b8db5f"
+  data-testid="first-name-title"
+>
+  Jose
+   
+  Andeone
+</h1>
+`;

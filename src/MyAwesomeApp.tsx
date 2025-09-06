@@ -40,7 +40,7 @@ export const MyAwesomeApp = () => {
             {userProfile.firstName.charAt(0)}{userProfile.lastName.charAt(0)}
           </div>
           <div className={styles.userInfo}>
-            <h1 className={styles.fullName}>
+            <h1 className={styles.fullName} data-testid="first-name-title">
               {userProfile.firstName} {userProfile.lastName}
             </h1>
             <div className={styles.status}>
